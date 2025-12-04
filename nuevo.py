@@ -1,4 +1,6 @@
 print ("HOla nuevo" )#ksajdfjlkfjfsdfdsdfsdff
 #kjsdnfklsjdfljflkf
 
-print("HOla refactor tambien") #jasjdljsdalflkasfjsadfljf
+print("Hgit logOla refactor tambien") #este cambio se aplicara a la rama refactor
+
+print("Otra linea en nuevo.py")
